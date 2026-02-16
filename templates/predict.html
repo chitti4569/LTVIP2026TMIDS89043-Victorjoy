@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Enter Weather Details</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f9;
+        }
+
+        .form-container {
+            width: 450px;
+            margin: 80px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 25px;
+            color: #2a5298;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin: 6px 0 15px 0;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            background-color: #2a5298;
+            color: white;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #1e3c72;
+        }
+
+        .back {
+            margin-top: 15px;
+            text-align: center;
+        }
+
+        .back a {
+            text-decoration: none;
+            color: #2a5298;
+        }
+
+    </style>
+</head>
+
+<body>
+
+<div class="form-container">
+
+    <h2>Enter Weather Details</h2>
+
+    <form action="/predict" method="POST">
+
+        <label>Cloud Cover (%)</label>
+        <input type="number" name="cloud_cover" step="any" required>
+
+        <label>Annual Rainfall (mm)</label>
+        <input type="number" name="annual" step="any" required>
+
+        <label>Jan-Feb Rainfall (mm)</label>
+        <input type="number" name="jan_feb" step="any" required>
+
+        <label>Mar-May Rainfall (mm)</label>
+        <input type="number" name="mar_may" step="any" required>
+
+        <label>Jun-Sep Rainfall (mm)</label>
+        <input type="number" name="jun_sep" step="any" required>
+
+        <button type="submit">Predict Flood</button>
+
+    </form>
+
+    <div class="back">
+        <a href="/">← Back to Home</a>
+    </div>
+
+</div>
+
+</body>
+</html>

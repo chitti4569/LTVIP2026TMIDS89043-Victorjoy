@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f9;
+            text-align: center;
+        }
+
+        .result-box {
+            width: 500px;
+            margin: 150px auto;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+            background-color: white;
+        }
+
+        h1 {
+            font-size: 28px;
+        }
+
+        .btn {
+            margin-top: 20px;
+            padding: 10px 25px;
+            border: none;
+            background-color: #2a5298;
+            color: white;
+            font-size: 15px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background-color: #1e3c72;
+        }
+
+    </style>
+</head>
+
+<body>
+
+<div class="result-box">
+
+    <h1 style="color: {{color}};">
+        {{prediction}}
+    </h1>
+
+    <a href="/predict_page">
+        <button class="btn">Predict Again</button>
+    </a>
+
+</div>
+
+</body>
+</html>
