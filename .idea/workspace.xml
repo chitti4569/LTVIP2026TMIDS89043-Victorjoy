@@ -168,12 +168,28 @@
       <option name="project" value="LOCAL" />
       <updated>1771943462031</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="project Documentation and Demo video">
+      <option name="closed" value="true" />
+      <created>1771943886890</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1771943886890</updated>
+    </task>
+    <task id="LOCAL-00011" summary="project Documentation and Demo video">
+      <option name="closed" value="true" />
+      <created>1771944025301</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1771944025301</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="project Documentation" />
     <MESSAGE value="project Documentation and Demo video" />
-    <option name="LAST_COMMIT_MESSAGE" value="project Documentation and Demo video" />
+    <MESSAGE value="project Documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="project Documentation" />
   </component>
 </project>
