@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7a6e9a6-c328-48f0-a123-f1790d358eda" name="Changes" comment="project Documentation and Demo video" />
+    <list default="true" id="c7a6e9a6-c328-48f0-a123-f1790d358eda" name="Changes" comment="project Documentation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +27,12 @@
     &quot;assignee&quot;: &quot;chitti4569&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/chitti4569/LTVIP2026TMIDS89043-Victorjoy.git&quot;,
-    &quot;accountId&quot;: &quot;6b145b5b-7c28-4292-852c-41b3022481f8&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/chitti4569/LTVIP2026TMIDS89043-Victorjoy.git",
+    "accountId": "94af9f48-2afd-448a-ad22-c5fe76aaae74"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -136,12 +136,20 @@
       <option name="project" value="LOCAL" />
       <updated>1771941855074</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="project Documentation">
+      <option name="closed" value="true" />
+      <created>1771942065549</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771942065550</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="project Documentation" />
     <MESSAGE value="project Documentation and Demo video" />
-    <option name="LAST_COMMIT_MESSAGE" value="project Documentation and Demo video" />
+    <MESSAGE value="project Documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="project Documentation" />
   </component>
 </project>
