@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7a6e9a6-c328-48f0-a123-f1790d358eda" name="Changes" comment="" />
+    <list default="true" id="c7a6e9a6-c328-48f0-a123-f1790d358eda" name="Changes" comment="project documentation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +27,12 @@
     &quot;assignee&quot;: &quot;chitti4569&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/chitti4569/LTVIP2026TMIDS89043-Victorjoy.git",
-    "accountId": "94af9f48-2afd-448a-ad22-c5fe76aaae74"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chitti4569/LTVIP2026TMIDS89043-Victorjoy.git&quot;,
+    &quot;accountId&quot;: &quot;94af9f48-2afd-448a-ad22-c5fe76aaae74&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -198,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project Documentation and Demo video" />
     <MESSAGE value="project Documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="project Documentation" />
+    <MESSAGE value="project documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="project documentation" />
   </component>
 </project>
